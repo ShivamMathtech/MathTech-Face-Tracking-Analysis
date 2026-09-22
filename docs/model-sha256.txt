@@ -1,0 +1,2 @@
+b4578f35940bf5a1a655214a1cce5cab13eba73c1297cd78e1a04c2380b0152f  frontend/public/models/blaze_face_short_range.tflite
+64184e229b263107bc2b804c6625db1341ff2bb731874b0bcc2fe6544e0bc9ff  frontend/public/models/face_landmarker.task
